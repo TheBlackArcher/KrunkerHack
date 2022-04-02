@@ -1,9 +1,9 @@
-# KrunkerHack
-This krunker.io hack was developed by The Gaming Gurus.
+# Various Different Cheats for Krunker.io
+These krunker.io hacks were primarily developed by The Gaming Gurus.
 
 Join their discord here: https://y9x.github.io/discord
 
-This hack includes:
+These cheats include:
 Aimbot,
 ESP,
 Client-Sided skin hacks,
