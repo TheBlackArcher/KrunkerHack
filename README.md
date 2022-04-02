@@ -1,7 +1,7 @@
 # KrunkerHack
 This krunker.io hack was developed by The Gaming Gurus.
 
-Join their discord here: https://y9x.github.io
+Join their discord here: https://y9x.github.io/discord
 
 This hack includes:
 Aimbot,
